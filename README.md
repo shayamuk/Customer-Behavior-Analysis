@@ -1,4 +1,4 @@
-# Customer Behavior Analysis Portfolio Project
+# Customer Segmentation and Revenue Analysis Portfolio Project
 
 # 📖 Project Overview
 
